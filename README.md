@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Just getting started to get an idea of GitHub
 
 <!--
 **Astral0wl/Astral0wl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
